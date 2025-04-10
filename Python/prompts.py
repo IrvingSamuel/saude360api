@@ -11,6 +11,7 @@ html_template = """
     </div>
 </div>
 """
+html_template = "{diagnosis}"
 
 # Lista de sites para referência textual
 reference_websites = [
